@@ -1,7 +1,7 @@
 [[query-dsl-match-all-query]]
 == Match All Query
 
-The most simple query, which matches all documents, giving them all a `_score`
+The simplest query, which matches all documents, giving them all a `_score`
 of `1.0`.
 
 [source,js]
